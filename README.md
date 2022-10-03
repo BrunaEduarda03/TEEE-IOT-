@@ -1,4 +1,4 @@
-# TEEE-IOT-
+# TEEE- INTERNET DAS COISAS (IOT)
 
 
 Sprint (Atividade) 1 – Revisão da linguagem C
