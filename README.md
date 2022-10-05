@@ -1,4 +1,4 @@
-# TEEE- INTERNET DAS COISAS (IOT) :right_anger_bubble:
+# TEEE- INTERNET DAS COISAS (IIOT) :right_anger_bubble:
 
 
 <div align = "center">
@@ -9,6 +9,14 @@
 </div>
 
 
+EMENTA:
+<ul>
+<li>Introdução à Internet das Coisas, focada no contexto de aplicações Industriais.</li>
+<li>Fundamentos de programação para microcontroladores de 8bits e 32bits.</li>
+<li>Arquiteturas e protocolos de comunicação para IoT.</li>
+<li>Fundamentos de computação em nuvem.</li>
+<li>Metodologias e padrões de projeto para sistemas embarcados.</li>
+<li>Aplicações reais, em problemas de automação.</li>
+</ul>
 
-Sprint (Atividade) 1 – Revisão da linguagem C
 
